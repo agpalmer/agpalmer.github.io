@@ -1,8 +1,13 @@
 h1 {
     text-align: center;
     font-family: impact, sans-serif;
+    color: black;
 }
 
 img {
     text-align: center;
+}
+
+body {
+    background-color: black;
 }
